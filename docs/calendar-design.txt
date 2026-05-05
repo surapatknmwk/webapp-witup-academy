@@ -1,0 +1,50 @@
+[
+    {
+        "year": 2569,
+        "month": 5,
+        "days": [
+            {
+                "day": 1,
+                "weekDay": "Fr",
+                "holiday": null,
+                "activity": [
+                    {
+                        "no": 1,
+                        "topic": "บทที่ 3 ไฟฟ้า",
+                        "content" : "ไฟฟ้า AC และ DC",
+                        "note" : "",
+                        "timeStart": "11:00",
+                        "timeEnd": "12:00",
+                        "timeHrs": "1",
+                        "status": "A",
+                        "student": {
+                            "studentCode": "ST0001",
+                            "round": "3",
+                            "room": "https://meet.google.com/qjo-nsnq-nkp"
+                        }
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "weekDay": "Sa",
+                "holiday": null,
+                "activity": [
+                    {
+                        "no": 1,
+                        "topic": "",
+                        "content" : "",
+                        "timeStart": "13:00",
+                        "timeEnd": "15:00",
+                        "timeHrs": "2",
+                        "student": {
+                            "studentCode": "ST0002",
+                            "round": "12",
+                            "room": "https://meet.google.com/qjo-nsnq-nkg"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
